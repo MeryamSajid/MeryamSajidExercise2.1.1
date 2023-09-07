@@ -1,7 +1,7 @@
 using System;
 
 class Program {
-private static double CENT_IN_INCH = 2.54;
+private static double CM_IN_INCH = 2.54;
   
   public static void Main (string[] args) {
     double numInches; 
@@ -10,14 +10,7 @@ private static double CENT_IN_INCH = 2.54;
     numInches = Double.Parse(Console.ReadLine());
 
     Console.WriteLine(numInches + " inches");
-    Console.WriteLine(numInches * CENT_IN_INCH + " centimeters");
-
-    
-    
-    
-  
-  
-
+    Console.WriteLine(numInches * CM_IN_INCH + " centimeters");
     
   }
 }
