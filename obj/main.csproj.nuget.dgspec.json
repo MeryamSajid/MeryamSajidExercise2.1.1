@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/runner/MeryamSajidExercise21/main.csproj": {}
+    "/home/runner/MeryamSajidExercise211/main.csproj": {}
   },
   "projects": {
-    "/home/runner/MeryamSajidExercise21/main.csproj": {
+    "/home/runner/MeryamSajidExercise211/main.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/runner/MeryamSajidExercise21/main.csproj",
+        "projectUniqueName": "/home/runner/MeryamSajidExercise211/main.csproj",
         "projectName": "main",
-        "projectPath": "/home/runner/MeryamSajidExercise21/main.csproj",
+        "projectPath": "/home/runner/MeryamSajidExercise211/main.csproj",
         "packagesPath": "/home/runner/.nuget/packages/",
-        "outputPath": "/home/runner/MeryamSajidExercise21/obj/",
+        "outputPath": "/home/runner/MeryamSajidExercise211/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/runner/.nuget/NuGet/NuGet.Config"
